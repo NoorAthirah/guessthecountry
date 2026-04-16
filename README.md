@@ -64,8 +64,4 @@ This project was built to practice:
 * 🎵 Sound effects
 * 🎮 Difficulty levels
 
----
 
-## 👩‍💻 Author
-
-Tira
